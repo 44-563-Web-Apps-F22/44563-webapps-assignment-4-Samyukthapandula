@@ -19,6 +19,12 @@ background-color: beige;
 font-size: 12px;
 color: rgb(236, 19, 30);
 }
+.name:hover{
+    border: 5px;
+    color:black;
+    box-shadow: 0 4px 8px rgb(236, 19, 30);
+    
+}
 .direction:hover{
     color:white;
     background-color:rgb(50, 47, 255) ;
