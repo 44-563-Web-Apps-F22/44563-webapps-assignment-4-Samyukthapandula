@@ -60,3 +60,17 @@ th{
 .MAR{
     color: darkred;
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:rgba(128, 0, 128, 0.062)
+    }
+    ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+    }
