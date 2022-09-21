@@ -48,3 +48,9 @@ th{
     background-color: rgba(0, 0, 255, 0.247);
     border:1px solid black;
 }
+.GUI{
+   color: chocolate; 
+}
+.MAR{
+    color: darkred;
+}
