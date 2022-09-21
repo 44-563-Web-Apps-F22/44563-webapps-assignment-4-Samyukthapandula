@@ -1,0 +1,31 @@
+.speech{
+    font-style: italic;
+font-size: 5px;
+color: black;
+}
+.song{
+    font-style: serif;
+font-size: 10px;
+color: black;
+}
+.direction{
+    font-style: sans-serif;
+font-size: 8px;
+color: black;
+background-color: beige;
+}
+.name{
+    font-style: serif;
+font-size: 12px;
+color: black;
+}
+.direction:hover{
+    color:white;
+    background-color:greenyellow ;
+}
+.duke{
+color: darkblue;
+}
+.duch{
+color: aquamarine;
+}
